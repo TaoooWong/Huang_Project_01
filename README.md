@@ -4,5 +4,5 @@ Plan for Project Structure:
 -Reports: Store two reports
   1.'HW report.pdf': The first report.
   2.'HW 02 report - update to remove 999 outlier.pdf': The second report after fixing the value.
--DataProcessed: Store the processed date file 'lead-iq-01-clean'.
--DataRaw: Store the raw data file 'lead-iq-01'.
+-DataProcessed: Store the processed date file 'modified_lead_data.csv'.
+-DataRaw: Store the raw data file 'lead-iq-01.cvs'.
